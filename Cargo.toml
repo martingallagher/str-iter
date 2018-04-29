@@ -1,7 +1,11 @@
 [package]
 name = "str-iter"
+description = "Non-allocating string iterators"
 version = "1.0.0"
 authors = [ "Martin Gallagher <martin@praegress.us>" ]
+license = "MIT"
+homepage = "https://github.com/martingallagher/str-iter"
+repository = "https://github.com/martingallagher/str-iter"
 
 [profile.release]
 lto = true
