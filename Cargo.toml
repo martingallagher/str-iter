@@ -1,5 +1,5 @@
 [package]
-name = "str-iter"
+name = "str_iter"
 description = "Non-allocating string iterators"
 version = "1.0.0"
 authors = [ "Martin Gallagher <martin@praegress.us>" ]
