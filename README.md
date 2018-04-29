@@ -1,4 +1,4 @@
-# Non-Allocation String Iterators
+# Non-Allocating String Iterators
 
 This library provides basic non-allocating string iterators for both substring and character functions.
 
